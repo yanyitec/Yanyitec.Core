@@ -1,0 +1,15 @@
+﻿/bin
+/.vs
+/.git
+
+/Yanyitec.Common/bin
+/Yanyitec.Common/.vs
+/Yanyitec.Common/.git
+
+/Yanyitec.Common.Unittest/bin
+/Yanyitec.Common.Unittest/.vs
+/Yanyitec.Common.Unittest/.git
+
+/Yanyitec.Flow/bin
+/Yanyitec.Flow/.vs
+/Yanyitec.Flow/.git 
